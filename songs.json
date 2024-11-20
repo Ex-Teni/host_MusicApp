@@ -6,7 +6,8 @@
       "songname": "Colorful Voice",
       "artist": "NightKeepers",
       "songtime": 169,
-      "audio": "https://drive.google.com/uc?export=download&id=1Bf24KTk53Yjm54JGAWKhsjr7ehdcIae1"
+      "audio": "https://drive.google.com/uc?export=download&id=1Bf24KTk53Yjm54JGAWKhsjr7ehdcIae1",
+      "lyrics": "https://drive.google.com/uc?export=download&id=16w5eEvXacqq44-uNYTY-N-h_NNqQV_FB"
     },
     {
       "id": "2",
@@ -14,7 +15,8 @@
       "songname": "Bring the Light",
       "artist": "NightKeepers",
       "songtime": 178,
-      "audio": "https://drive.google.com/uc?export=download&id=19sYXS-6NjaPK9ts3YUUKQUd8-v5h2Kbc"
+      "audio": "https://drive.google.com/uc?export=download&id=19sYXS-6NjaPK9ts3YUUKQUd8-v5h2Kbc",
+      "lyrics": "https://drive.google.com/uc?export=download&id=1bW5ovkzHN7S4ddBS2rTqU6fNAkyNfqXg"
     },
     {
       "id": "3",
@@ -22,7 +24,8 @@
       "songname": "Recall",
       "artist": "NightKeepers",
       "songtime": 140,
-      "audio": "https://drive.google.com/uc?export=download&id=1dKhIj9TG6TGMhZOqAHSJm4k9VaZy0uii"
+      "audio": "https://drive.google.com/uc?export=download&id=1dKhIj9TG6TGMhZOqAHSJm4k9VaZy0uii",
+      "lyrics": "https://drive.google.com/uc?export=download&id=1u855GVInuWrRFh_0GGfZbxhyQet-na_4"
     },
     {
       "id": "4",
@@ -30,7 +33,8 @@
       "songname": "Kiss Me",
       "artist": "Nulbarich",
       "songtime": 220,
-      "audio": "https://drive.google.com/uc?export=download&id=1kIuHp_wjdUHHxcmDLcf-vGb81f4SKx3q"
+      "audio": "https://drive.google.com/uc?export=download&id=1kIuHp_wjdUHHxcmDLcf-vGb81f4SKx3q",
+      "lyrics": "https://drive.google.com/uc?export=download&id=1FobD1F4yJS1KyB79LkaJq7-IQ4SrmhfC"
     },
     {
       "id": "5",
@@ -38,7 +42,8 @@
       "songname": "It's all for us",
       "artist": "Nulbarich",
       "songtime": 230,
-      "audio": "https://drive.google.com/uc?export=download&id=1MqhuJSFFzXy8E-sgND4iDU91LsrFG05W"
+      "audio": "https://drive.google.com/uc?export=download&id=1MqhuJSFFzXy8E-sgND4iDU91LsrFG05W",
+      "lyrics": "https://drive.google.com/uc?export=download&id=1rV0M87Txd9uU2ME3txDmW3Dw2XMPC-Tf"
     },
     {
       "id": "6",
@@ -46,7 +51,8 @@
       "songname": "Ahead of Us",
       "artist": "Akira Kosemura",
       "songtime": 292,
-      "audio": "https://drive.google.com/uc?export=download&id=1nCUimrAnZIUrK3n6OAX2ZE3ArnZWjOKo"
+      "audio": "https://drive.google.com/uc?export=download&id=1nCUimrAnZIUrK3n6OAX2ZE3ArnZWjOKo",
+      "lyrics": null
     }
   ]
 }
